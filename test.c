@@ -14,7 +14,7 @@ int main(void)
 	}
 	printf("%d\n", len); //remove
 	for(i = 0; i < len; i++){
-		
+		//incomplete af
 	}
 	
 	return 0;
